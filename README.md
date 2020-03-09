@@ -1,3 +1,3 @@
 # Mal
 
-URL for Image: <siteName>.netlify.com/src/<ImageName>
+URL for Image: maltinder.netlify.com/src/Image.jpg
